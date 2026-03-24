@@ -26,12 +26,12 @@ This is a sample project for Realm, a database application in Swift.
     </td>
     <td>
       <a href="https://realm.netlify.app/docs/swift/4.0.0/">
-        <img src="https://img.shields.io/badge/realm-4.0.0-EEE.svg?style=flat">
+        <img src="https://img.shields.io/badge/Realm-4.0.0-EEE.svg?style=flat">
       </a>
     </td>
     <td>
       <a href="https://realm.netlify.app/docs/swift/4.0.0/">
-        <img src="https://img.shields.io/badge/realm-4.0.0-EEE.svg?style=flat">
+        <img src="https://img.shields.io/badge/Realm-4.0.0-EEE.svg?style=flat">
       </a>
     </td>
     <td>
