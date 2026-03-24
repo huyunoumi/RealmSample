@@ -21,17 +21,23 @@ This is a sample project for Realm, a database application in Swift.
     </td>
     <td>
       <a href="https://www.apple.com/jp/swift/">
-        <img src="https://img.shields.io/badge/-Swift-EEE.svg?logo=swift&style=flat">
+        <img src="https://img.shields.io/badge/Swift-5.0.0-EEE.svg?logo=swift&style=flat">
       </a>
     </td>
     <td>
-      <img src="https://img.shields.io/badge/-realm-blue.svg?style=flat">
+      <a href="https://realm.netlify.app/docs/swift/4.0.0/">
+        <img src="https://img.shields.io/badge/realm-4.0.0-EEE.svg?style=flat">
+      </a>
     </td>
     <td>
-      <img src="https://img.shields.io/badge/-realm-blue.svg?style=flat">
+      <a href="https://realm.netlify.app/docs/swift/4.0.0/">
+        <img src="https://img.shields.io/badge/realm-4.0.0-EEE.svg?style=flat">
+      </a>
     </td>
     <td>
-      <img src="https://img.shields.io/badge/-VSCode-EEE.svg?style=flat">
+      <a href="https://developer.apple.com/jp/xcode/">
+        <img src="https://img.shields.io/badge/-Xcode-blue.svg?style=flat">
+      </a>
     </td>
   </tr>
 </table>
